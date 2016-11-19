@@ -4,7 +4,7 @@
 #
 ######################################
 
-SONOPTIK_VERSION = 
+SONOPTIK_VERSION = e61f435f94532dd7339132a230e1a2f19ca7d99d
 SONOPTIK_UTILS2_SITE = $(call github,sonoptik,sonoptik_utils2,$(SONOPTIK_UTILS2_VERSION))
 SONOPTIK_UTILS2_BUNDLES = zzz.lv2
 
